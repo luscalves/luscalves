@@ -1,11 +1,11 @@
 ## Olá! 🤓
 
 <div> 
-  <a href="https://www.linkedin.com/in/caiomoraes38" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-alves-de-souza-053962261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <a href="https://github.com/anuraghazra/convoychat"><br>
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luscalves&layout=compact&langs_count=8&card_width=450&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" /></a>
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=luscalves&show_icons=true&bg_color=00000000" /></a>
 
 ### Tecnologias
 
