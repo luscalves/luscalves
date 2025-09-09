@@ -5,7 +5,7 @@
 </div>
 
 <a href="https://github.com/anuraghazra/convoychat"><br>
-  <img height=300 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)username=luscalves&layout=compact&langs_count=8&card_width=450&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" /></a>
+  <img height=300 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?](https://github-readme-stats.vercel.app/api?username=luscalves&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=450&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" /></a>
 https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
 ### Tecnologias
 
