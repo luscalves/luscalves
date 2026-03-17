@@ -18,6 +18,7 @@ Gosto de desafios que envolvem lógica, matemática e a construção de projetos
 * **Tópicos aleatórios:** Se quiser mudar de assunto, aceito conversar sobre boxe, livros ou trocar recomendações de animes clássicos como *Cowboy Bebop* e *Evangelion*.
 
 📫 **Como me encontrar:** 
+
   <a href="https://www.linkedin.com/in/lucas-alves-de-souza-053962261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
