@@ -6,7 +6,7 @@ Gosto de desafios que envolvem lógica, matemática e a construção de projetos
 
 ### 🚀 O que estou fazendo agora
 
-* 🔭 **Atualmente trabalhando em:** Meu TCC, explorando arquiteturas de sistemas distribuídos e *trading engines* utilizando **C# e .NET**. Em paralelo, estou desenvolvendo o **rpg-life**, um aplicativo mobile construído com React Native e Expo.
+* 🔭 **Atualmente trabalhando em:** Meu TCC, explorando arquiteturas de sistemas distribuídos e *trading engines* utilizando **C# e .NET**. Em paralelo, estou fazendo um sistema de gestão de tarefas corporativas.
 * 🌱 **Atualmente aprendendo:** Aprofundando meus conhecimentos no ecossistema .NET avançado e afiando minha lógica de programação com algoritmos e programação competitiva em **C++**. 
 * 💡 **Projetos paralelos:** Sempre pensando em inovações e ideias de startups ou explorando o mundo dos microcontroladores e circuitos.
 
