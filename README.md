@@ -77,9 +77,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luscalves&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luscalves&theme=github_dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luscalves&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luscalves&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luscalves&theme=github_dark" />
 
 </div>
 
