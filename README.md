@@ -130,11 +130,11 @@ public class LucasAlves
   <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/lucas-alves-de-souza-053962261/)">
   <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="mailto:SEUEMAIL@email.com">
+<a href="mailto:lucajddx2013@gmail.com">
   <img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
