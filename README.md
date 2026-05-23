@@ -185,11 +185,3 @@ public class LucasAlves
 </p>
 ```
 
-Troque apenas:
-
-```txt
-SEU-LINKEDIN
-SEUEMAIL@email.com
-atlas-desk
-```
-
